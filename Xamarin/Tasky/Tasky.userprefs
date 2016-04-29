@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="TaskyiOS\TaskyiOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskySharedCode\TodoDatabaseADO.cs">
+    <Files>
+      <File FileName="TaskyAndroid\HomeScreen.cs" Line="56" Column="4" />
+      <File FileName="TaskyAndroid\TodoItemListAdapter.cs" Line="1" Column="1" />
+      <File FileName="TaskyAndroid\TodoItemScreen.cs" Line="29" Column="44" />
+      <File FileName="TaskySharedCode\TodoItemManager.cs" Line="1" Column="1" />
+      <File FileName="TaskySharedCode\TodoDatabaseADO.cs" Line="79" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TaskyAndroid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

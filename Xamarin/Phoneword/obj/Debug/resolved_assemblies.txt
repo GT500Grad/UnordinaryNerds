@@ -1,0 +1,10 @@
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\Phoneword.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\Mono.Android.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\mscorlib.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\System.Core.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\System.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\System.Xml.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\Xamarin.Insights.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Development\Xamarin\Phoneword\obj\Debug\assemblies\System.Net.Http.dll

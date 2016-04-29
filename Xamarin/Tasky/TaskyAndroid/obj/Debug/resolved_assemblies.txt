@@ -1,0 +1,14 @@
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\TaskyAndroid.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Android.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Data.Sqlite.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\mscorlib.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Core.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Data.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Xml.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Transactions.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\System.Numerics.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Development\Xamarin\Tasky\TaskyAndroid\obj\Debug\assemblies\Mono.Security.dll
